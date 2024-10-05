@@ -1,0 +1,10 @@
+{
+  "list": {
+    "date": "#string",
+    "injection": "#number",
+    "reproduction": "#number"
+  },
+  "export": {
+
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "date": "#string",
+  "hour": "#number",
+  "price": "#number"
+}
