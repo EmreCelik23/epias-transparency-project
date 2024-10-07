@@ -24,7 +24,7 @@ Feature: This feature file includes tests for PFK in EPIAS-Electricity-Service
     And match response.errors[0].errorMessage == "`startDate` alanı boş olamaz!"
 
   @negative
-  Scenario: Getting Data from PFK w/o start-date info
+  Scenario: Getting Data from PFK w/o end-date info
     * pfkReq.endDate = null
     Given headers {TGT: '#(tgt)', Content-Type: 'application/json'}
     And request pfkReq

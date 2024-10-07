@@ -29,7 +29,7 @@ Feature: This feature file includes tests for Daily Actualization Amount in EPIA
   Scenario: Exporting Data from DAA w/ CSV format
     Given path 'export/daily-actualization-amount'
     And headers {TGT: '#(tgt)', Content-Type: 'application/json'}
-    #* daaReq.export.exportType = "CSV"
+    * daaReq.export.exportType = "CSV"
     #* def javaUtils = Java.type('helpers.javaUtils')
 
     And request daaReq.export

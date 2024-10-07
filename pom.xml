@@ -48,9 +48,6 @@
                 <version>3.0.2</version>
                 <configuration>
                     <simulationsFolder>src/test/java</simulationsFolder>
-                    <includes>
-                        <include>mock.CatsKarateSimulation</include>
-                    </includes>
                 </configuration>
             </plugin>
         </plugins>
