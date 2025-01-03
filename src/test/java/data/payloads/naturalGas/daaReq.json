@@ -1,0 +1,21 @@
+{
+  "list": {
+    "startDate": "2024-08-01T00:00:00+03:00",
+    "endDate": "2024-09-01T00:00:00+03:00",
+    "storageFacilityId": 1,
+    "page": {
+      "number": 1,
+      "size": 31,
+      "sort": {
+        "direction": "ASC",
+        "field": "date"
+      }
+    }
+  },
+  "export": {
+    "startDate": "2024-08-01T00:00:00+03:00",
+    "endDate": "2024-09-01T00:00:00+03:00",
+    "storageFacilityId": 1,
+    "exportType": "XLSX"
+  }
+}

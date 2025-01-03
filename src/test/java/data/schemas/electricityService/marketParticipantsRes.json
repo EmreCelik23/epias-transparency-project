@@ -1,0 +1,12 @@
+{
+  "orgName": "#string",
+  "orgCode": "#string",
+  "eicCode": "#string",
+  "damEntry": "#boolean",
+  "intraDayEntry": "#boolean",
+  "vepEntry": "#boolean",
+  "yekgEntry": "#boolean",
+  "legalStatus": "#string",
+  "naturalGasMarketEntry": "#boolean",
+  "id": "#number"
+}

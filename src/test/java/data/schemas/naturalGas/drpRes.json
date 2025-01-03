@@ -1,0 +1,14 @@
+{
+  "list": {
+    "date": "#string",
+    "grfTl": "#number",
+    "grfUsd": "#number",
+    "grfEur": "#number",
+    "grfUsdMmBtu": "#number"
+  },
+  "export": {
+    "startDate": "#string",
+    "endDate": "#string",
+    "exportType": "#string"
+  }
+}
